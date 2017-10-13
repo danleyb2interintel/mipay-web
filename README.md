@@ -3,6 +3,8 @@
 
 #### Checkout
 
+## Demo https://gomipay.com/static/demo/mipay-web/
+
 ```html
 
     // inside an activity
