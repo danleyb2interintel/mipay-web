@@ -1,7 +1,7 @@
 # MIPAY Web Sdk
 ### Quick Setup
 
-#### Checkout
+#### Example Check out Web Pop Up
 
  Demo https://gomipay.com/static/demo/mipay-web/
 
