@@ -9,7 +9,7 @@
 
     // inside an activity
     // this will open the MIPAY app on on mobile devices and if the MIPAY app installed else opens a webpage for the payment options
-    var reference  = "1-INTINT-CVI35";
+    var reference  = "INTINT-LZJ77";
 
     // ...
     
@@ -59,7 +59,7 @@ var h = 600;
 var left = (window.screen.width / 2) - ((w / 2) + 10);
 var top = (window.screen.height / 2) - ((h / 2) + 50);
     var url = 'https://gomipay.com/checkout/';
-    var reference  = "1-INTINT-CVI35";
+    var reference  = "INTINT-LZJ77";
 
     var child = window.open(url +"?reference="+reference+"", "_blank","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width="+w+", height="+h+", top="+top+", left="+left);
     var interval = setInterval(function() {
